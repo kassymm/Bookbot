@@ -1,2 +1,2 @@
 # Bookbot
-Book recommendation hat interface 
+Book recommendation chat interface 
